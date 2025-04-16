@@ -1,2 +1,3 @@
 # Hello-world
 This repository is for practicing the Github flow...
+I am Seunnuda a DevOps enthuciast. I am learning to upskill myself in DevSecOps. Join my world and taylor me through the journey...peace.
